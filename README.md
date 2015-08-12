@@ -5,8 +5,8 @@ WEB APIにGETリクエストを送って更新チェックをします。
 汎用的に使えるツールじゃないので、編集が必要です。参考程度に。
 特にAPIから帰ってくる値を適用すると、印刷部分のロジック編集が必要になると思います。
 
-![イメージ](https://github.com/tdaiku/WindowsAutoPrint/img/screenshot_main.png)
-![設定](https://github.com/tdaiku/WindowsAutoPrint/img/screenshot_config.png)
+![イメージ](https://github.com/tdaiku/WindowsAutoPrint/tree/master/img/screenshot_main.png)
+![設定](https://github.com/tdaiku/WindowsAutoPrint/tree/master/img/screenshot_config.png)
 
 ## 処理内容
 ・WebClient によるGetリクエスト送信
