@@ -10,7 +10,7 @@ namespace WindowsAutoPrint
         /// <summary>
         /// XML設定ファイル
         /// </summary>
-        private const string FILE_NAME = @"homeAppManager.xml";
+        private const string FILE_NAME = @"windowsAutoPrint.xml";
 
         public static Config init;
 
